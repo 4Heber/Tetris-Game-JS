@@ -1,0 +1,20 @@
+
+body{
+    background-color: lightgray;
+}
+
+header{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
